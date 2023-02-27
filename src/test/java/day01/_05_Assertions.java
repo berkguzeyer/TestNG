@@ -57,7 +57,6 @@ public class _05_Assertions {
             Assert.fail("Test fails anyways.");
         }
 
-
     }
 
 
