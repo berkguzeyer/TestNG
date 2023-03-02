@@ -41,6 +41,7 @@ public class DriverClass {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
+        driver.quit();
     }
 
 
