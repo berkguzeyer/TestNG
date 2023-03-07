@@ -35,15 +35,15 @@ public class DriverClass {
         loginButton.click();
     }
 
-    @AfterClass(alwaysRun = true)
-    public void finishSettings(){
-        try {
-            Thread.sleep(3000);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        }
-        driver.quit();
-    }
+//    @AfterClass(alwaysRun = true)
+//    public void finishSettings(){
+//        try {
+//            Thread.sleep(3000);
+//        } catch (InterruptedException e) {
+//            throw new RuntimeException(e);
+//        }
+//        driver.quit();
+//    }
 
 
 }
