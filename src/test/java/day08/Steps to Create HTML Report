@@ -1,0 +1,10 @@
+Steps to Create HTML Report
+
+1. Run the test you want to get report of - if you haven't ran yet
+2. Click on Run Button (top Menu of the IntelliJ) > Edit Configurations
+3. Find the name of the test you to get report of
+4. On the right hand side, click on Listeners
+5. click on add button right below Listeners
+6. Search for report and choose EmailableReporter
+7. Click on Apply and then OK
+8. Run your test again
