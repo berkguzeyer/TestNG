@@ -1,4 +1,4 @@
-package day06;
+package day07;
 
 import Utilities.DriverClass;
 import Utilities.ParameterDriverClass;

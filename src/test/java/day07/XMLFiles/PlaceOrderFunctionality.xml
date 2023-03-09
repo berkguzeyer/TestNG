@@ -5,7 +5,7 @@
         <parameter name="searchKeyword" value="ipod"></parameter>
         <parameter name="browser" value="chrome"></parameter>
         <classes>
-            <class name="day06._01_PlaceOrderFunctionality"></class>
+            <class name="day07._01_PlaceOrderFunctionality"></class>
         </classes>
     </test>
 </suite>
