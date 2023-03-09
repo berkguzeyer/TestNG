@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.util.List;
 
-public class _05_WishListElements extends ParameterDriverClass {
+public class _05_WishListElements {
 
     public _05_WishListElements(WebDriver driver) {
         PageFactory.initElements(driver,this);
